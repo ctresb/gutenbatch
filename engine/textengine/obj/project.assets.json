@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\gutenbatch\\textengine\\textengine.csproj",
+      "projectUniqueName": "C:\\Users\\davas\\Documents\\gtb\\gutenbatch\\engine\\textengine\\textengine.csproj",
       "projectName": "textengine",
-      "projectPath": "C:\\gutenbatch\\textengine\\textengine.csproj",
+      "projectPath": "C:\\Users\\davas\\Documents\\gtb\\gutenbatch\\engine\\textengine\\textengine.csproj",
       "packagesPath": "C:\\Users\\davas\\.nuget\\packages\\",
-      "outputPath": "C:\\gutenbatch\\textengine\\obj\\",
+      "outputPath": "C:\\Users\\davas\\Documents\\gtb\\gutenbatch\\engine\\textengine\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
