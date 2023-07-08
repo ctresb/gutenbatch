@@ -1,0 +1,15 @@
+C:\Users\davas\source\repos\textengine\textengine\bin\Debug\net6.0\textengine.exe
+C:\Users\davas\source\repos\textengine\textengine\bin\Debug\net6.0\textengine.deps.json
+C:\Users\davas\source\repos\textengine\textengine\bin\Debug\net6.0\textengine.runtimeconfig.json
+C:\Users\davas\source\repos\textengine\textengine\bin\Debug\net6.0\textengine.dll
+C:\Users\davas\source\repos\textengine\textengine\bin\Debug\net6.0\textengine.pdb
+C:\Users\davas\source\repos\textengine\textengine\obj\Debug\net6.0\textengine.csproj.AssemblyReference.cache
+C:\Users\davas\source\repos\textengine\textengine\obj\Debug\net6.0\textengine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davas\source\repos\textengine\textengine\obj\Debug\net6.0\textengine.AssemblyInfoInputs.cache
+C:\Users\davas\source\repos\textengine\textengine\obj\Debug\net6.0\textengine.AssemblyInfo.cs
+C:\Users\davas\source\repos\textengine\textengine\obj\Debug\net6.0\textengine.csproj.CoreCompileInputs.cache
+C:\Users\davas\source\repos\textengine\textengine\obj\Debug\net6.0\textengine.dll
+C:\Users\davas\source\repos\textengine\textengine\obj\Debug\net6.0\refint\textengine.dll
+C:\Users\davas\source\repos\textengine\textengine\obj\Debug\net6.0\textengine.pdb
+C:\Users\davas\source\repos\textengine\textengine\obj\Debug\net6.0\textengine.genruntimeconfig.cache
+C:\Users\davas\source\repos\textengine\textengine\obj\Debug\net6.0\ref\textengine.dll
