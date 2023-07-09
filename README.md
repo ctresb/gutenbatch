@@ -1,6 +1,6 @@
 # Gutenbatch
 
-![Gutenbatch Logo](https://cdn.discordapp.com/attachments/1127253637001908225/1127253649194758265/image.png) 
+![Gutenbatch Logo](https://cdn.discordapp.com/attachments/1127253637001908225/1127405749241389156/logo_1_gutenbatch.png) 
 
 Gutenbatch is an open-source text-based game engine designed to create interactive stories or adventures. Whether you're a game developer looking to bring your stories to life, or a writer eager to experiment with interactive storytelling, Gutenbatch is a tool for you.
 
