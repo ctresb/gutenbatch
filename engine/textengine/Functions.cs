@@ -34,6 +34,9 @@ namespace TextEngine
                 case TextType.Title:
                     foregroundColor = ConsoleColor.Cyan;
                     break;
+                case TextType.Decision:
+                    foregroundColor = ConsoleColor.White;
+                    break;
                 case TextType.Narrative:
                     foregroundColor = ConsoleColor.Gray;
                     break;
@@ -68,6 +71,5 @@ namespace TextEngine
         {
             return $"You chose the action '{action}', but nothing happened.";
         }
-
     }
 }

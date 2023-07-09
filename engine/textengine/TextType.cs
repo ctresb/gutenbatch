@@ -5,7 +5,8 @@
         Dialog,
         Title,
         Narrative,
-        Option
+        Option,
+        Decision,
+        Consequence,
     }
-
 }
